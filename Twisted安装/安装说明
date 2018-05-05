@@ -1,0 +1,1 @@
+将文件拖到目录directory下，然后在cmd中通过命令pip install directory\Twisted-....whl进行安装
